@@ -1,9 +1,6 @@
-![Cinemat Logo](./public/images/branding/logos/logo-w.png)
+![Cinemat Logo](./public/images/branding/logos/vinhlogo-w.png)
 
 # About Project
-
-Cinemat is a ticket reservation system developed using Laravel 8. It has features like user roles, authentication, automated reservations, and much more.
-See the live demo **[here](https://cinemat.zeiadmohamed.dev)**.
 
 ## What I learned
 
@@ -21,10 +18,6 @@ See the live demo **[here](https://cinemat.zeiadmohamed.dev)**.
 -   File uploads
 -   Searching and filtering through models
 
-## Usage
-
-You can find a link to the website **[here](https://cinemat.zeiadmohamed.dev)**. The website has some movies already created, but you can log in as a manager and edit or create new movies. **[login](https://cinemat.zeiadmohamed.dev/login)**
-
 > Note: The website resets automatically every 30 minutes.
 
 ### Credentials
@@ -32,8 +25,7 @@ You can find a link to the website **[here](https://cinemat.zeiadmohamed.dev)**.
 | User Role | Email                        | Password     |
 | --------- | ---------------------------- | ------------ |
 | Admin     | admin&#64;cinemat&#46;com    | adminpass    |
-| Manager   | manager&#64;cinemat&#46;com  | managerpass  |
-| Customer  | customer&#64;cinemat&#46;com | customerpass |
+
 
 <br>
 
